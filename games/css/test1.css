@@ -1,0 +1,84 @@
+body{
+	background-color: black;
+}
+.banner{
+	width: 500px;
+	height: 500px;
+	background-color: black;
+	color: white;
+	margin: 60px 0px 0px 450px;
+}
+.banner1 h3{
+	font-size: 40px;
+	padding: 90px 30px 20px 30px;
+}
+.banner1 button{
+	font-size: 40px;
+	margin: 0px 150px 0px 150px;
+	color: white;
+	background-color: black;
+	border-color: black;
+	cursor: pointer; 
+}
+.banner2 h3{
+	font-size: 30px;
+	padding: 100px 80px 0px 80px;
+}
+.banner2 input{
+	font-size: 20px;
+	height: 40px;
+}
+.banner2 button{
+	font-size: 40px;
+	margin: 40px 50px 0px 50px;
+	color: white;
+	background-color: black;
+	border-color: black;
+	cursor: pointer; 
+}
+.banner3 h3{
+	font-size: 30px;
+	padding: 100px 80px 0px 80px;
+}
+.banner3 button{
+	font-size: 40px;
+	margin: 40px 50px 0px 50px;
+	color: white;
+	background-color: black;
+	border-color: black;
+	cursor: pointer; 
+}
+.main label{
+	font-size: 80px;
+}
+.main input{
+	font-size: 80px;
+	width: 100px;
+	height: 100px
+}
+.main button{
+	font-size: 50px;
+}
+.main1{
+	font-size: 30px;
+}
+#endScore{
+	padding-top: -100px;
+	font-size: 100px;
+}
+.main1 button{
+	font-size: 40px;
+	margin: 40px 50px 0px 50px;
+	color: white;
+	background-color: black;
+	border-color: black;
+	cursor: pointer;
+}
+.lay3a button{
+	font-size: 15px;
+	border-style: none;
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+
