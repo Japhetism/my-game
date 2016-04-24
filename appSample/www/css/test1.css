@@ -1,20 +1,20 @@
 body{
 	background-color: black;
+	height: 100%;
+	width: 100%;
 }
 .banner{
-	width: 500px;
-	height: 500px;
+	width: 95%;
+	height: 100%;
 	background-color: black;
 	color: white;
-	margin: 60px 0px 0px 450px;
+	margin: 10% 0% 0% 0%;
 }
 .banner1 h3{
 	font-size: 40px;
-	padding: 90px 30px 20px 30px;
 }
 .banner1 button{
 	font-size: 40px;
-	margin: 0px 150px 0px 150px;
 	color: white;
 	background-color: black;
 	border-color: black;
@@ -22,7 +22,6 @@ body{
 }
 .banner2 h3{
 	font-size: 30px;
-	padding: 100px 80px 0px 80px;
 }
 .banner2 input{
 	font-size: 20px;
@@ -38,11 +37,9 @@ body{
 }
 .banner3 h3{
 	font-size: 30px;
-	padding: 100px 80px 0px 80px;
 }
 .banner3 button{
 	font-size: 40px;
-	margin: 40px 50px 0px 50px;
 	color: white;
 	background-color: black;
 	border-color: black;
@@ -68,7 +65,6 @@ body{
 }
 .main1 button{
 	font-size: 40px;
-	margin: 40px 50px 0px 50px;
 	color: white;
 	background-color: black;
 	border-color: black;

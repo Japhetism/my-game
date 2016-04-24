@@ -137,12 +137,12 @@ function check(){
 		score+=2;
 		scores+=2;
 		correct+=1;
-		var rep = "<img src='../images/correct.png' height='200px' width='200px'>";
+		rep = "<img src='images/Correct.png' height='200px' width='200px'>";
 		next3();
 
 	}else{
 		wrong+=1;
-	 	rep = "<img src='../images/wrong.png' height='200px' width='200px'>";
+	 	rep = "<img src='images/wrong.png' height='200px' width='200px'>";
 	 	next3();
 	}
 
@@ -190,7 +190,7 @@ function check(){
 
 
 function endGame(){
-	window.location = "../html/test1.php";
+	window.location = "index.html";
 }
 
 function again(){
